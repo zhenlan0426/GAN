@@ -1,2 +1,2 @@
 # GAN
-build Generative Adversarial Networks and train on MNIST
+build Generative Adversarial Networks(GAN), Conditional GAN, and Deep Convolutional GAN and train on MNIST
